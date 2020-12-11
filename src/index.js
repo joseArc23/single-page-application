@@ -1,4 +1,4 @@
-import css from './styles/styles.css'
+// import css from './styles/styles.css'
 import router from './routes/'
 
 window.addEventListener('load', router)
